@@ -1,2 +1,4 @@
-
+patool
 openpyxl
+pyunpack
+py7zr
